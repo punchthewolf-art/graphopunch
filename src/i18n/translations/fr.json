@@ -47,6 +47,18 @@
     "f4title": "Secret Cache",
     "f4desc": "Un trait surprenant revele par ton ecriture"
   },
+  "pricing": {
+    "title": "Simple & Transparent",
+    "freeTitle": "Analyse Gratuite",
+    "freePrice": "0\u20AC",
+    "freeFeatures": ["Type de personnalite", "Score de caractere", "5 traits cles", "Match carriere"],
+    "freeCta": "C'est inclus !",
+    "premiumTitle": "Analyse Complete",
+    "premiumPrice": "4,99\u20AC",
+    "premiumOnce": "paiement unique",
+    "premiumFeatures": ["Tout le gratuit +", "Profil complet detaille", "Secrets caches reveles", "Telechargement PDF"],
+    "premiumCta": "Disponible apres analyse"
+  },
   "footer": {
     "alsoTry": "Essaye aussi",
     "madeWith": "Fait avec encre et IA par Punch Ventures",

@@ -47,6 +47,18 @@
     "f4title": "Hidden Secret",
     "f4desc": "A surprising trait revealed by your handwriting"
   },
+  "pricing": {
+    "title": "Simple & Transparent",
+    "freeTitle": "Free Analysis",
+    "freePrice": "\u20AC0",
+    "freeFeatures": ["Personality type", "Character score", "5 key traits", "Career match"],
+    "freeCta": "Included!",
+    "premiumTitle": "Full Analysis",
+    "premiumPrice": "\u20AC4.99",
+    "premiumOnce": "one-time payment",
+    "premiumFeatures": ["Everything free +", "Full detailed profile", "Hidden secrets revealed", "PDF download"],
+    "premiumCta": "Available after analysis"
+  },
   "footer": {
     "alsoTry": "Also try",
     "madeWith": "Made with ink and AI by Punch Ventures",
