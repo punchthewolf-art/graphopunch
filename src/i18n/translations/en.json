@@ -1,0 +1,55 @@
+{
+  "header": { "title": "GraphoPunch", "tagline": "Your handwriting reveals your personality" },
+  "hero": {
+    "title": "Your Handwriting",
+    "titleGradient": "Tells Everything",
+    "subtitle": "Upload a photo of your handwriting or write directly on screen. Our AI graphologist will reveal your hidden personality traits.",
+    "cta": "Analyze My Writing"
+  },
+  "form": {
+    "upload": "Upload a handwriting photo",
+    "uploadHint": "JPG or PNG - a sentence or paragraph of your handwriting",
+    "uploaded": "Photo uploaded",
+    "orDraw": "Or write directly here",
+    "drawInstruction": "Write: The quick brown fox jumps over the lazy dog",
+    "clear": "Clear",
+    "analyze": "Reveal My Personality",
+    "analyzing": "Analyzing your handwriting..."
+  },
+  "result": {
+    "title": "Your GraphoPunch Profile",
+    "type": "Your Type",
+    "traits": "Dominant Traits",
+    "emotional": "Emotional Style",
+    "careers": "Ideal Careers",
+    "secret": "Hidden Secret",
+    "characterScore": "Character Score",
+    "observations": "Graphological Observations",
+    "premium": "Unlock Full Analysis",
+    "premiumDesc": "Complete personality profile with career compatibility, hidden secrets, and downloadable PDF",
+    "premiumPrice": "4.99",
+    "premiumCta": "Get Full Analysis",
+    "share": "Share My Profile",
+    "shareTwitter": "Share on X",
+    "shareLinkedIn": "Share on LinkedIn",
+    "newAnalysis": "New Analysis",
+    "freeLabel": "Free",
+    "premiumLabel": "Premium"
+  },
+  "features": {
+    "title": "What GraphoPunch Reveals",
+    "f1title": "Personality Type",
+    "f1desc": "Your unique personality archetype based on writing patterns",
+    "f2title": "5 Key Traits",
+    "f2desc": "Dominant character traits with confidence percentages",
+    "f3title": "Career Match",
+    "f3desc": "Ideal careers aligned with your personality",
+    "f4title": "Hidden Secret",
+    "f4desc": "A surprising trait revealed by your handwriting"
+  },
+  "footer": {
+    "alsoTry": "Also try",
+    "madeWith": "Made with ink and AI by Punch Ventures",
+    "legal": "For entertainment purposes only"
+  }
+}

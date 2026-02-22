@@ -1,0 +1,55 @@
+{
+  "header": { "title": "GraphoPunch", "tagline": "Ton ecriture revele ta personnalite" },
+  "hero": {
+    "title": "Ton Ecriture",
+    "titleGradient": "Dit Tout Sur Toi",
+    "subtitle": "Upload une photo de ton ecriture ou ecris directement a l'ecran. Notre graphologue IA revelera tes traits de personnalite caches.",
+    "cta": "Analyser Mon Ecriture"
+  },
+  "form": {
+    "upload": "Upload une photo d'ecriture",
+    "uploadHint": "JPG ou PNG - une phrase ou paragraphe de ton ecriture",
+    "uploaded": "Photo uploadee",
+    "orDraw": "Ou ecris directement ici",
+    "drawInstruction": "Ecris : Le renard brun rapide saute par-dessus le chien paresseux",
+    "clear": "Effacer",
+    "analyze": "Reveler Ma Personnalite",
+    "analyzing": "Analyse de ton ecriture..."
+  },
+  "result": {
+    "title": "Ton Profil GraphoPunch",
+    "type": "Ton Type",
+    "traits": "Traits Dominants",
+    "emotional": "Style Emotionnel",
+    "careers": "Carrieres Ideales",
+    "secret": "Secret Cache",
+    "characterScore": "Score de Caractere",
+    "observations": "Observations Graphologiques",
+    "premium": "Debloquer l'Analyse Complete",
+    "premiumDesc": "Profil de personnalite complet avec compatibilite carriere, secrets caches et PDF telechargeable",
+    "premiumPrice": "4.99",
+    "premiumCta": "Obtenir l'Analyse Complete",
+    "share": "Partager Mon Profil",
+    "shareTwitter": "Partager sur X",
+    "shareLinkedIn": "Partager sur LinkedIn",
+    "newAnalysis": "Nouvelle Analyse",
+    "freeLabel": "Gratuit",
+    "premiumLabel": "Premium"
+  },
+  "features": {
+    "title": "Ce Que GraphoPunch Revele",
+    "f1title": "Type de Personnalite",
+    "f1desc": "Ton archetype unique base sur tes motifs d'ecriture",
+    "f2title": "5 Traits Cles",
+    "f2desc": "Traits de caractere dominants avec pourcentages de confiance",
+    "f3title": "Match Carriere",
+    "f3desc": "Carrieres ideales alignees avec ta personnalite",
+    "f4title": "Secret Cache",
+    "f4desc": "Un trait surprenant revele par ton ecriture"
+  },
+  "footer": {
+    "alsoTry": "Essaye aussi",
+    "madeWith": "Fait avec encre et IA par Punch Ventures",
+    "legal": "A des fins de divertissement uniquement"
+  }
+}
